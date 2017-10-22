@@ -1,0 +1,312 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/22/world/middleeast/ap-ml-united-states-mideast.html",
+        "snippet": "U.S. Secretary of State Rex Tillerson on Sunday pressed the Trump administration's case for isolating and containing Iran in the Middle East and beyond as he pushed for Saudi Arabia and Iraq to unite in common cause to counter growing Iranian asse...",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Pushes Saudi Arabia, Iraq on United Front to Counter Iran",
+          "print_headline": "US Pushes Saudi Arabia, Iraq on United Front to Counter Iran"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-22T10:48:37+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Middle East",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59ec778e95d0e0246f2116e3",
+        "word_count": 808,
+        "score": 0.3042363,
+        "uri": "nyt://article/4ec0f1c5-7a1c-553d-8f7b-48a7281cdeb9"
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/21/world/middleeast/ap-ml-united-states-mideast.html",
+        "snippet": "As U.S. Secretary of State Rex Tillerson visits the Middle East this weekend, he'll hope to achieve something that has eluded top American diplomats for a generation: sealing a new alliance between Saudi Arabia and Iraq that would shut the doors o...",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Tillerson's Mideast Aim Is a Saudi-Iraqi Axis Against Iran",
+          "print_headline": "Tillerson's Mideast Aim Is a Saudi-Iraqi Axis Against Iran"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-21T14:42:56+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Middle East",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59eb5cf695d0e0246f2115a9",
+        "word_count": 811,
+        "score": 0.21402848,
+        "uri": "nyt://article/2f419dcb-f858-5f6a-af4a-f87cf5a7e42d"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/21/world/middleeast/21reuters-usa-gulf-tillerson-arrival.html",
+        "snippet": "U.S. Secretary of State Rex Tillerson arrived in Riyadh on Saturday to attend a landmark meeting between officials from Saudi Arabia and Iraq aimed at improving relations between the two countries and countering Iran&#8217;s growing regional influ...",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Tillerson Lands in Riyadh at Start of Gulf, South Asia Tour",
+          "print_headline": "Tillerson Lands in Riyadh at Start of Gulf, South Asia Tour"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-21T14:18:28+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Middle East",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59eb573a95d0e0246f2115a3",
+        "word_count": 513,
+        "score": 0.25140554,
+        "uri": "nyt://article/11c7fa63-4d18-5a7f-9e25-64233242ecc4"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/20/business/20reuters-gulf-qatar-shipping.html",
+        "snippet": "Qatar's diplomatic crisis is holding up the sale of a shipping company it part owns, one of the latest signs of an emerging corporate fall-out that Doha is facing after Arab countries cut relations in June, sources familiar with the matter said....",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Exclusive-Qatar Diplomatic Crisis Delays Sale of Gulf Shipping Firm, Sources Say",
+          "print_headline": "Exclusive-Qatar Diplomatic Crisis Delays Sale of Gulf Shipping Firm, Sources Say"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-20T13:57:28+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59ea00d195d0e0246f2112f2",
+        "word_count": 828,
+        "score": 0.41585678,
+        "uri": "nyt://article/97b3003d-0c95-5f51-9ef5-5747f97e7461"
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/19/us/politics/ap-us-united-states-tillerson.html",
+        "snippet": "Secretary of State Rex Tillerson heads to the Middle East, South Asia and Europe this week on a diplomatic mission focused on conflicts in Iraq and Syria and blunting Iranian influence in the region, the State Department said Thursday.",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Tillerson Off to Mideast, South Asia With Eye on Iran, Iraq",
+          "print_headline": "Tillerson Off to Mideast, South Asia With Eye on Iran, Iraq"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-19T15:03:42+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Politics",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59e8bed695d0e0246f210f7c",
+        "word_count": 383,
+        "score": 0.29887983,
+        "uri": "nyt://article/926b0e66-5db3-51b1-97fb-5fcdf7bcdbaf"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/18/world/asia/18reuters-gulf-qatar.html",
+        "snippet": "Qatar is \"open to dialogue\" in resolving a dispute that has seen the Gulf state isolated from its Arab neighbors, its emir said during a visit to Indonesia on Wednesday.",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Qatar Emir Says Open to Dialogue to Resolve Gulf Crisis",
+          "print_headline": "Qatar Emir Says Open to Dialogue to Resolve Gulf Crisis"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-18T08:39:31+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Asia Pacific",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59e7134a95d0e0246f210aaa",
+        "word_count": 253,
+        "score": 0.33811396,
+        "uri": "nyt://article/15655465-cd49-53ef-b4c7-0fdb95cc3fa6"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/17/sports/soccer/17reuters-soccer-gulf-qatar.html",
+        "snippet": "A Qatar-hosted football tournament for Arab nations should not go ahead unless Kuwait's FIFA ban is lifted, the UAE Football Association's president said on Tuesday, denying that his country's boycott was related to the crisis between Gulf states.",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Qatar Gulf Cup Boycott Is Over Kuwait's FIFA Ban, UAE FA Says",
+          "print_headline": "Qatar Gulf Cup Boycott Is Over Kuwait's FIFA Ban, UAE FA Says"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-17T15:18:37+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Soccer",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59e61f5e95d0e0246f21083a",
+        "word_count": 317,
+        "score": 0.33811396,
+        "uri": "nyt://article/e2895449-dca5-5bf5-a580-e04010bce864"
+      },
+      {
+        "web_url": "https://www.nytimes.com/reuters/2017/10/17/world/africa/17reuters-somalia-attacks.html",
+        "snippet": "Medics who rushed to help victims of a huge bomb explosion in the Somali capital Mogadishu that killed more than 300 people say the country's threadbare emergency services have been pushed beyond their limit. ",
+        "blog": {},
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Chaotic Response to Somali Bombing Cost Lives, Medics Say",
+          "print_headline": "Chaotic Response to Somali Bombing Cost Lives, Medics Say"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-17T10:27:30+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Africa",
+        "byline": {
+          "original": "By REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "59e5db1f95d0e0246f210755",
+        "word_count": 739,
+        "score": 0.21264462,
+        "uri": "nyt://article/feaf9ca6-a384-5252-a49e-f8854f6b53f5"
+      },
+      {
+        "web_url": "https://www.nytimes.com/2017/10/17/magazine/rex-tillerson-and-the-unraveling-of-the-state-department.html",
+        "snippet": "With an isolated leader, a demoralized diplomatic corps and a president dismantling international relations one tweet at a time, American foreign policy is adrift in the world.",
+        "print_page": "42",
+        "blog": {},
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "type": "image",
+            "subtype": "xlarge",
+            "url": "images/2017/10/22/magazine/22state1/22state1-articleLarge.jpg",
+            "height": 733,
+            "width": 600,
+            "rank": 0,
+            "legacy": {
+              "xlargewidth": 600,
+              "xlarge": "images/2017/10/22/magazine/22state1/22state1-articleLarge.jpg",
+              "xlargeheight": 733
+            }
+          },
+          {
+            "type": "image",
+            "subtype": "wide",
+            "url": "images/2017/10/22/magazine/22state1/22state1-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "rank": 0,
+            "legacy": {
+              "wide": "images/2017/10/22/magazine/22state1/22state1-thumbWide.jpg",
+              "widewidth": 190,
+              "wideheight": 126
+            }
+          },
+          {
+            "type": "image",
+            "subtype": "thumbnail",
+            "url": "images/2017/10/22/magazine/22state1/22state1-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "rank": 0,
+            "legacy": {
+              "thumbnailheight": 75,
+              "thumbnail": "images/2017/10/22/magazine/22state1/22state1-thumbStandard.jpg",
+              "thumbnailwidth": 75
+            }
+          }
+        ],
+        "headline": {
+          "main": "Rex Tillerson and the Unraveling of the State Department",
+          "kicker": "Feature",
+          "print_headline": "State of Chaos"
+        },
+        "keywords": [
+          {
+            "isMajor": "N",
+            "rank": 1,
+            "name": "subject",
+            "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates"
+          },
+          {
+            "isMajor": "N",
+            "rank": 2,
+            "name": "subject",
+            "value": "Diplomatic Service, Embassies and Consulates"
+          },
+          {
+            "isMajor": "N",
+            "rank": 3,
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2017-10-17T09:05:50+0000",
+        "document_type": "article",
+        "new_desk": "Magazine",
+        "byline": {
+          "original": "By JASON ZENGERLE"
+        },
+        "type_of_material": "News",
+        "_id": "59e5c80295d0e0246f210710",
+        "word_count": 6767,
+        "score": 0.12741615,
+        "uri": "nyt://article/a052688e-9813-5fbd-8509-503cb6f069ae"
+      },
+      {
+        "web_url": "https://www.nytimes.com/aponline/2017/10/16/world/asia/ap-as-malaysia-qatar.html",
+        "snippet": "Malaysia on Monday rolled out the red carpet for Qatar's emir, who is on his first trip to Southeast Asia four months after a diplomatic crisis erupted between his nation and four Arab countries.",
+        "blog": {},
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Malaysia Rolls Out Red Carpet for Qatar's Emir",
+          "print_headline": "Malaysia Rolls Out Red Carpet for Qatar's Emir"
+        },
+        "keywords": [],
+        "pub_date": "2017-10-16T04:21:40+0000",
+        "document_type": "article",
+        "new_desk": "None",
+        "section_name": "Asia Pacific",
+        "byline": {
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "59e433da95d0e0246f210354",
+        "word_count": 382,
+        "score": 0.30117857,
+        "uri": "nyt://article/dedfc9b0-a0b0-5a5e-917a-fec86e237548"
+      }
+    ],
+    "meta": {
+      "hits": 3407,
+      "offset": 0,
+      "time": 53
+    }
+  }
+}
