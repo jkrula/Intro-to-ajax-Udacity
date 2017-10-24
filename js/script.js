@@ -36,14 +36,28 @@ function loadData() {
     
     $.getJSON(url, function(data){
         var articles = data.response.docs;
-        var articleLinks = [];
         $.each(articles, function(index, article){
-            articleLinks.push("<li class='article'><a href ='"+article.web_url+"'>"+article.headline.main+"</a><p>"+article.snippet+"</p></li>");
+            $nytElem.append("<li class='article'><a href ='"+article.web_url+"'>"+article.headline.main+"</a><p>"+article.snippet+"</p></li>");
         });
-        $nytElem.append(articleLinks);
+        
     });
     
-    
+    // load wikipedia links:
+    $.ajax({
+        url:"https://en.wikipedia.org/w/api.php?action=opensearch&limit=10&search="+$city+"&callback=?",
+        dataType:'jsonP',
+        success: function(data){
+            var wikiLinks = {}
+            $.each(data[1], function(index, title){
+                wikiLinks[title] = data[3][index]; 
+                
+            });
+            $.each(wikiLinks, function(key, value){
+                $wikiElem.append("<li><a href='"+value+"'>"+key+"</a></li>");
+            });
+            
+        }
+    });
     
     
     
