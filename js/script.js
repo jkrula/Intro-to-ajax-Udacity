@@ -43,6 +43,10 @@ function loadData() {
     });
     
     // load wikipedia links:
+    var errorTextGenerator = setTimeout(function(){
+        $wikiElem.text("Failed to get wikipedia content");
+    }, 8000);
+    
     $.ajax({
         url:"https://en.wikipedia.org/w/api.php?action=opensearch&limit=10&search="+$city+"&callback=?",
         dataType:'jsonP',
@@ -55,7 +59,7 @@ function loadData() {
             $.each(wikiLinks, function(key, value){
                 $wikiElem.append("<li><a href='"+value+"'>"+key+"</a></li>");
             });
-            
+            clearTimeout(errorTextGenerator);
         }
     });
     
