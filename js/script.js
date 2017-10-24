@@ -16,14 +16,27 @@ function loadData() {
     $wikiElem.text("");
     $nytElem.text("");
 
-    // load google streetview
-    var googleUrl= "https://maps.googleapis.com/maps/api/streetview?size=600x400&location="+fulladress;
+//    // load google streetview background image:
+//    var googleUrl= "https://maps.googleapis.com/maps/api/streetview?size=600x400&location="+fulladress;
+//    
+//    $body.append('<img class="bgimg" src ="'+googleUrl+'">');
+//    
+//    
     
-    $body.append('<img class="bgimg" src ="'+googleUrl+'">');
+    //load New york times articles:
+    var url = 'js/localdata.json';
+    $.getJSON(url, function(data){
+        var articles = data.response.docs;
+        var articleLinks = [];
+        $.each(articles, function(index, article){
+            articleLinks.push("<li class='article'><a href ='"+article.web_url+"'>"+article.headline.main+"</a></li>");
+        });
+        $nytElem.append(articleLinks);
+    });
     
     
     
-    //
+    
     
     return false;
 };
